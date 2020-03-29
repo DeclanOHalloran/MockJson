@@ -1,24 +1,23 @@
 {
    "data":[
       {
-         "text":"0.0.18",
-         "db":"QI_EE",
-         "isMetadata":false
+         "DB":"Dec",
+         "isMetadata":"WQ"
       },
       {
-         "text":"0.0.10",
-         "isMetadata":false
+         "DB":"Dec1",
+         "isMetadata":"WQ"
       },
       {
-         "text":"metadata.xml",
-         "isMetadata":true
+         "DB":"DECO1",
+         "isMetadata":"UAT"
       },
       {
-         "text":"0.0.33",
-         "isMetadata":false
+         "DB":"DECO2",
+         "isMetadata":"UAT"
       },
       {
-         "text":"0.0.4",
+         "DB":"0.0.4",
          "isMetadata":false
       }
    ]
